@@ -1,6 +1,3 @@
-Dialogue:
-Negotiator
-
 Feedback:
 **Stage 1**
 
@@ -13,7 +10,7 @@ Ensure that the paraphrasing explicitly acknowledges the emotional weight behind
 **Stage 2**
 
 *What you did well:*
-The negotiator managed to reformulate the conversation by identifying shared objectives, such as the mutual interest in maintaining the university’s reputation and ensuring student safety. This helped shift the focus from the non-negotiability of demands to a more cooperative stance.
+The negotiator managed to reformulate the conversation by identifying shared objectives, such as the mutual interest in maintaining the universityâ€™s reputation and ensuring student safety. This helped shift the focus from the non-negotiability of demands to a more cooperative stance.
 
 *Improvements needed:*
 Work on neutralizing emotional language further by directly addressing the urgency and emotional intensity with phrases like "I hear your urgency and understand this matters deeply to you". This could help defuse tension more effectively.
@@ -37,7 +34,7 @@ It would be beneficial to periodically check for understanding and agreement on 
 **Stage 5**
 
 *What you did well:*
-The negotiator encouraged collaboration by asking open questions and seeking the student union’s input on potential solutions. This approach helped transition the conversation towards a more cooperative phase.
+The negotiator encouraged collaboration by asking open questions and seeking the student unionâ€™s input on potential solutions. This approach helped transition the conversation towards a more cooperative phase.
 
 *Improvements needed:*
 Consider providing more options and allowing the student union to more evidently weigh these against their demands. This would reinforce the collaborative spirit and empower them to take a shared ownership in the resolution process.
@@ -49,3 +46,6 @@ The negotiation successfully reached a point where practical options were discus
 
 *Improvements needed:*
 Maintain a clear track of agreed commitments and next steps. Explicitly summarizing practical outcomes and confirming mutual agreement can solidify resolutions and prevent misunderstandings later.
+
+Overall, the negotiator applied de-escalation strategies reasonably well, particularly in recognizing emotions and attempting to collaborate. However, there is room for more structured and explicit alignment with the strategic focus at each stage of the dialogue.
+
