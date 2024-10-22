@@ -1,0 +1,27 @@
+Feedback:
+**Identified stage: 1**
+*Strategy: 1*
+.....
+
+**Identified stage: 2**
+*Strategy: 2*
+.....
+
+**Identified stage: 3**
+*Strategy: 3*
+.....
+
+**Identified stage: 4**
+*Strategy: 4*
+.....
+
+**Identified stage: 5**
+*Strategy: 5*
+.....
+
+**Identified stage: 6**
+*Strategy: 6*
+.....
+
+Overall, ....
+
