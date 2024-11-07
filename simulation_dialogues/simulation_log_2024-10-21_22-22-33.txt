@@ -1,0 +1,54 @@
+Negotiator(University administration): Welcome. Thank you for meeting me today. I understand you are the Student Union President, and I’m here on behalf of the university administration. I appreciate you coming to discuss these important matters.
+Adversarial party(Student union): Thank you, Mr. Taha. The situation on campus has reached a critical point. This time, we are not here for more empty promises. We've had numerous meetings, and each has ended with half measures. The student body has been patient for too long, but we cannot take it anymore. We are deeply frustrated by the lack of action from your side. The rising tuition fees, inadequate housing, and the unjust arrest of our peers are intolerable. Security forces are treating students unfairly, and it's unacceptable.
+Negotiator(University administration): I hear your frustration regarding the rising tuition fees, inadequate housing, and the treatment of students by security forces. It’s clear that these issues are causing a lot of concern among the student body. Let’s take a moment to pause and focus on how we can address these demands constructively.
+
+1
+Adversarial party(Student union): We are done waiting. We need immediate action from the administration. The violent actions of your security forces are unacceptable. We need concrete results now. We demand an immediate freeze of the tuition hike, substantial improvements in student housing, and the release of the arrested students. These demands are not open for negotiation.
+Negotiator(University administration): I understand that the situation feels urgent, and the concerns about tuition, housing, and the treatment of arrested students are critical. Let's focus on our shared goal of ensuring a safe and supportive environment for everyone on campus. We are committed to exploring actionable solutions and to opening a dialogue that addresses these pressing issues constructively.
+
+2
+Adversarial party(Student union): The lack of action is damaging the university’s reputation. The media is watching, and the longer this drags on, the worse it gets for everyone. We care about this university, and we don’t want it to be known as a place that ignores its students. Our demands must be met to protect the safety and reputation of the campus.
+Negotiator(University administration): It’s evident that emotions are running high, and I truly recognize the commitment and passion you have for improving our university. It’s important for us to work together, focusing on solutions that reflect our shared interest in making Edward University a safe and supportive place. We are all here because we want the best for the students and the institution. Let’s explore how we can address these issues together, acknowledging both the emotional and practical aspects of the situation.
+
+3
+Adversarial party(Student union): This frustration is a direct result of your inaction. Every day, students are living in unsafe housing, and tuition debts are piling up. We don’t need another task force or committee. We need real, immediate changes. The time for collaboration was long ago—now is the time for action.
+Negotiator(University administration): I acknowledge the urgency and understand that emotions around these issues are intense. Our goal here is to transition from these feelings of frustration towards collaborative problem-solving. We are committed to finding actionable solutions that can begin to address these core concerns promptly. Let’s outline concrete steps we can take together to begin improving the housing situation, evaluate the tuition process, and ensure fair treatment for all students on campus. How can we move forward on these priorities in a way that is both swift and effective?
+
+4
+Adversarial party(Student union): We are prepared to de-escalate the occupation of the administration building if the university agrees to freeze tuition immediately and commits to a housing improvement plan. Additionally, a joint task force to investigate campus security violence could help rebuild trust. If we see movement on these points, we can peacefully end the protests and shift the focus to dialogue.
+Negotiator(University administration): Negotiator(University administration): Thank you for outlining these points. Your proposal provides a pathway for us to collaboratively address the critical issues at hand. On the topic of freezing tuition, I would appreciate more discussion on the framework you envision for implementing such a freeze. Regarding housing, let’s explore what a realistic improvement plan might look like, ensuring it meets both immediate needs and long-term goals. For the joint task force, I believe establishing clear objectives and transparent processes will be essential for rebuilding trust. How do these options resonate with you, and are there any additional concerns or ideas you would like to discuss?
+
+5
+Adversarial party(Student union): I agree. If we leave this room without a solution, the protests will only intensify, and we risk losing control of the movement to external groups. We are ready to work with you on a timeline for addressing the security concerns, freezing tuition, and improving housing.
+Negotiator(University administration): Negotiator (University administration): I appreciate your willingness to collaborate, and I acknowledge the urgency of reaching a solution quickly. Let's begin by outlining a clear timeline for each of these priorities. For the tuition freeze, we need to discuss the immediate steps the administration can take and any potential adjustments needed to implement it effectively. Regarding housing improvements, we can work together to outline a phased plan that addresses both urgent repair needs and long-term improvements. For the security concerns, establishing a joint task force can be our immediate action point, focusing on investigating incidents and preventing future issues. How do these steps fit your expectations, and are there specific milestones or deadlines you consider essential for us to commit to?
+
+6
+Adversarial party(Student union): I agree. Let's keep communication open, and I trust we can work together on these issues. Thank you, Mr. Taha. I appreciate your time and attention. Let’s move forward together.
+Great job! Here's some feedback for your reference:
+Feedback:
+
+**Identified stage: 1**
+*Strategy: 1*
+The user initially expressed strong demands using assertive language indicating frustration, signaling the first stage. The strategy to pause and paraphrase was used to demonstrate that their concerns had been heard and understood, which is crucial for building trust and validating their feelings.
+
+**Identified stage: 2**
+*Strategy: 2*
+As the user escalated the urgency and non-negotiability of demands, the negotiator shifted to reformulate the conversation. By neutralizing emotional language and focusing on shared objectives, the negotiator ensured the dialogue remained constructive, aiming to turn attention towards actionable issues.
+
+**Identified stage: 3**
+*Strategy: 3*
+In this stage, the user connected their demands to a broader concern about the university's reputation, aiming to cultivate empathy. The negotiator acknowledged these emotions and carefully redirected towards maintaining a constructive discussion by validating these concerns while keeping a solution-oriented approach.
+
+**Identified stage: 4**
+*Strategy: 4*
+With intensified expressions of anger and urgency from the user, the negotiator reframed the conversation to shift from blame to future collaboration, emphasizing joint problem-solving. This approach helps to diffuse blame and works towards engaging both parties in finding solutions together.
+
+**Identified stage: 5**
+*Strategy: 5*
+As the user displayed readiness for conditional cooperation, the negotiator asked for input on collaborative solutions. This involved engaging open questions and suggesting options, supporting the transition from conflict to cooperation and ensuring both sides contributed to the solution.
+
+**Identified stage: 6**
+*Strategy: 6*
+The final stage saw the user actively engaging in proposing solutions, allowing the negotiation to focus on practical options to move forward. By discussing these in detail, the negotiator reinforced the collaborative commitment and ensured both parties had a clear path to resolution.
+
+Overall, the negotiation was handled effectively by accurately identifying the different stages of the user's emotional and negotiation stance. At each stage, the appropriate strategy was employed, ensuring a constructive and empathetic dialogue that gradually paved the way for mutual understanding and collaboration. This approach underscores the importance of adapting to the counterparty's emotional state and negotiating strategy, ensuring that emotions do not derail productive conversations and that each stage transitions smoothly towards resolving the conflict.
