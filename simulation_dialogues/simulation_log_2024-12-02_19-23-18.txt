@@ -1,0 +1,8 @@
+Stage 1 - Adversarial Party:
+Adversarial Party(Students and External Activists): "Listen up, this situation is absolutely unacceptable! We've tried to get your attention peacefully, but now things have changed. You must address the rising tuition fees, the terrible housing conditions, and the lack of campus safety immediately. We cannot take this neglect anymore, and we are very frustrated with your inaction!"
+Negotiator:
+Good afternoon! I'm a Representative of the Edward university and thank you for meeting with us today. I hear your concerns and want to assure you that we are here to find solutions to a situation that occurred at the campus.
+Correct Status: Correct
+
+Stage 2 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Don't just give us empty promises! Our demands are clear, urgent, and non-negotiable. We need concrete action, not more talk. Are you even listening to us? This needs to be fixed right now!"

@@ -1,8 +1,27 @@
-Conversation 2:
-
-Adversarial party: [Dialogue from Adversarial party at Conversation 2]
-Negotiator: [Dialogue from Negotiator at Conversation 2]
-
-**Identified stage: 3**
-*Strategy: 3*
+Negotiation Summary:
+**Conversation 1:**
+**Identified stage: 1**
 .....
+
+**Conversation 2:**
+**Identified stage: 2**
+.....
+
+**Conversation 3:**
+**Identified stage: 3**
+.....
+
+**Conversation 4:**
+**Identified stage: 4**
+.....
+
+**Conversation 5:**
+**Identified stage: 5**
+.....
+
+**Conversation 6:**
+**Identified stage: 6**
+.....
+
+Overall, ....
+

@@ -1,0 +1,138 @@
+Stage 1 - Adversarial Party:
+Adversarial Party(Students and External Activists): "Listen up, we've had enough of this nonsense! The rising tuition fees, the appalling housing conditions, and the blatant disregard for our safety on campus are absolutely unacceptable! We can't take it anymore, and this situation must change immediately. You need to address these issues, or this will only get worse!"
+Negotiator:
+Good afternoon! I'm a Representative of the Edward university and thank you for meeting with us today. I hear your concerns and want to assure you that we are here to find solutions to a situation that occurred at the campus.
+Correct Status: Correct
+
+Stage 2 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Stop with the empty platitudes! We need clear commitments, not vague promises. Our demands are urgent and non-negotiable. If you’re not prepared to make real changes, then you’re just wasting our time!"
+Negotiator:
+I agree and I think it is in our common interests to protect students and to bring peace to campus. All of us want that university continued to operate. Am I right?
+Correct Status: Correct
+
+Stage 3 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "It's easy for you to talk about common interests when you’re sitting safely in your office, but we’re the ones out here facing arrests and intimidation! If you’re not willing to meet our demands, then you’re choosing to ignore the real dangers we’re facing every day. How would you feel if you were in our shoes, constantly worried about safety and financial pressures?"
+Negotiator:
+The feelings you share towards your companions are completely understandable. The administration is working on releasing of those students that were not involved in the violent actions or any other activities against the public order. At any circumstance the safety, well-being and physical integrity of the students are the priority for university. We also accept your frustration regarding the housing situation and the tuition fees. We need to find a way to work together and see what will be the best ways to collaborate for us to find the solution as soon as possible.
+Correct Status: Correct
+
+Stage 4 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Words, words, words! That's all we've been getting while the situation keeps getting worse! It's not just about what you say but what you do. We are tired of being ignored and put at risk while you sit back and do nothing meaningful. The blame is on you for letting it get this far, and we demand action now!"
+Negotiator:
+As I already mentioned we are working on releasing the students and hope to bring you some good news soon. I also can assure you that we are in negotiation process with the public authorities to make sure that the clear distinction is made between the radical groups and peaceful students, to avoid the unjust arrests in the future. We are open for dialogue with the students. And I think that your friends out there in the campus deserve finding a solution as soon as possible. Prolonging the discussion would be unfair to the as much as it is unfair to you. So how can we work together?
+Correct Status: Correct
+
+Stage 5 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Alright, maybe we're making some progress here. But we need to make sure this isn’t just talk. How do you plan to actually involve us in these decisions? What steps are you willing to take to guarantee that our voices are heard in this process?"
+Negotiator:
+The administration is ready for open and trustful corporation. The question is how we can restore this trust? What kind of bodies for cooperation between Administration and students you envisage to elaborate the mutually acceptable ways out to the rising issues. From our side we have established the internal committee to prepare the road map on adjusting the tuition fees  according to the financial situation of each students, with the possibilities of changing the payment schedule, oh freezing the tuition fees. This committee will also evaluate together with the students the housing conditions, and the possible of payments that needs to be done to ensure that the studying and living circumstances are favorable for our students students. In case you agree with the suggested options how do you think we could proceed?
+Correct Status: Correct
+
+Stage 6 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Okay, those ideas sound like a step in the right direction, but we need clear timelines and representation on this committee to ensure our voices aren’t just sidelined. We propose having elected student representatives on the committee, and we want a commitment that any changes will be communicated transparently and swiftly. What’s your plan for making sure these promises lead to real change?"
+Negotiator:
+That’s a fair request, and I appreciate your willingness to collaborate. We can arrange a meeting with the internal committee and student representatives within the next 48 hours to kick off discussions. We’ll ensure that student voices are fully represented in this process, and I propose we establish a clear timeline for actionable steps and regular updates. To build trust and ensure transparency, how about scheduling bi-weekly progress meetings to review and adapt our plans together? Let’s set the foundation for immediate action and long-term solutions—does this approach work for you?
+Correct Status: Correct
+
+
+Final Feedback:
+Congratulations! You did a great job and successfully passed all stages using the correct strategies. Here's some feedback for your reference:
+**Conversation 1:**
+
+Adversarial party: "Listen up, we've had enough of this nonsense! The rising tuition fees, the appalling housing conditions, and the blatant disregard for our safety on campus are absolutely unacceptable! We can't take it anymore, and this situation must change immediately. You need to address these issues, or this will only get worse!"
+
+Negotiator: "Good afternoon! I'm a Representative of the Edward university and thank you for meeting with us today. I hear your concerns and want to assure you that we are here to find solutions to a situation that occurred at the campus."
+
+**At this point, the conversation is at stage 1**
+
+*What you did well:*
+- You effectively acknowledged the adversarial party's concerns and conveyed a willingness to address them. This demonstrates active listening and sets a cooperative tone for the dialogue.
+
+*Improvements:*
+- Consider restating the concerns more specifically in your own words to further assure the adversarial party that you truly understand their frustrations.
+
+---
+
+**Conversation 2:**
+
+Adversarial party: "Stop with the empty platitudes! We need clear commitments, not vague promises. Our demands are urgent and non-negotiable. If you’re not prepared to make real changes, then you’re just wasting our time!"
+
+Negotiator: "I agree and I think it is in our common interests to protect students and to bring peace to campus. All of us want that university continued to operate. Am I right?"
+
+**At this point, the conversation is at stage 2**
+
+*What you did well:*
+- You successfully reframed the dialogue to steer it away from confrontation by focusing on common goals, such as the continued operation of the university, which is a shared interest.
+
+*Improvements:*
+- Further breaking down the demands into specific points might help in addressing each issue more efficiently and collaboratively.
+
+---
+
+**Conversation 3:**
+
+Adversarial party: "It's easy for you to talk about common interests when you’re sitting safely in your office, but we’re the ones out here facing arrests and intimidation! If you’re not willing to meet our demands, then you’re choosing to ignore the real dangers we’re facing every day. How would you feel if you were in our shoes, constantly worried about safety and financial pressures?"
+
+Negotiator: "The feelings you share towards your companions are completely understandable. The administration is working on releasing of those students that were not involved in the violent actions or any other activities against the public order. At any circumstance the safety, well-being and physical integrity of the students are the priority for university. We also accept your frustration regarding the housing situation and the tuition fees. We need to find a way to work together and see what will be the best ways to collaborate for us to find the solution as soon as possible."
+
+**At this point, the conversation is at stage 3**
+
+*What you did well:*
+- You acknowledged and empathized with their emotions, which shows understanding and respect for their perspective, thus helping to build trust.
+
+*Improvements:*
+- While you addressed their emotions, ensure to maintain a focus on actionable solutions to move the dialogue forward constructively.
+
+---
+
+**Conversation 4:**
+
+Adversarial party: "Words, words, words! That's all we've been getting while the situation keeps getting worse! It's not just about what you say but what you do. We are tired of being ignored and put at risk while you sit back and do nothing meaningful. The blame is on you for letting it get this far, and we demand action now!"
+
+Negotiator: "As I already mentioned we are working on releasing the students and hope to bring you some good news soon. I also can assure you that we are in negotiation process with the public authorities to make sure that the clear distinction is made between the radical groups and peaceful students, to avoid the unjust arrests in the future. We are open for dialogue with the students. And I think that your friends out there in the campus deserve finding a solution as soon as possible. Prolonging the discussion would be unfair to the as much as it is unfair to you. So how can we work together?"
+
+**At this point, the conversation is at stage 4**
+
+*What you did well:*
+- You successfully redirected the dialogue from blame and frustration toward a constructive focus by emphasizing the shared interest in finding a resolution.
+
+*Improvements:*
+- Offering more specific, actionable steps that directly address their concerns might further strengthen the commitment to resolving issues.
+
+---
+
+**Conversation 5:**
+
+Adversarial party: "Alright, maybe we're making some progress here. But we need to make sure this isn’t just talk. How do you plan to actually involve us in these decisions? What steps are you willing to take to guarantee that our voices are heard in this process?"
+
+Negotiator: "The administration is ready for open and trustful corporation. The question is how we can restore this trust? What kind of bodies for cooperation between Administration and students you envisage to elaborate the mutually acceptable ways out to the rising issues. From our side we have established the internal committee to prepare the road map on adjusting the tuition fees according to the financial situation of each students, with the possibilities of changing the payment schedule, oh freezing the tuition fees. This committee will also evaluate together with the students the housing conditions, and the possible of payments that needs to be done to ensure that the studying and living circumstances are favorable for our students students. In case you agree with the suggested options how do you think we could proceed?"
+
+**At this point, the conversation is at stage 5**
+
+*What you did well:*
+- You invited the adversarial party to share their thoughts on potential solutions, encouraging collaborative problem-solving.
+
+*Improvements:*
+- Providing more clarity on how student input will influence decision-making might enhance engagement and trust in the process.
+
+---
+
+**Conversation 6:**
+
+Adversarial party: "Okay, those ideas sound like a step in the right direction, but we need clear timelines and representation on this committee to ensure our voices aren’t just sidelined. We propose having elected student representatives on the committee, and we want a commitment that any changes will be communicated transparently and swiftly. What’s your plan for making sure these promises lead to real change?"
+
+Negotiator: "That’s a fair request, and I appreciate your willingness to collaborate. We can arrange a meeting with the internal committee and student representatives within the next 48 hours to kick off discussions. We’ll ensure that student voices are fully represented in this process, and I propose we establish a clear timeline for actionable steps and regular updates. To build trust and ensure transparency, how about scheduling bi-weekly progress meetings to review and adapt our plans together? Let’s set the foundation for immediate action and long-term solutions—does this approach work for you?"
+
+**At this point, the conversation is at stage 6**
+
+*What you did well:*
+- You discussed practical options in detail, proposing a structured plan with clear timelines and frequent updates to ensure transparency and real change.
+
+*Improvements:*
+- Continue fostering an environment of mutual accountability to sustain the momentum toward resolution and lasting collaboration.
+
+---
+
+**Overall Feedback:**
+
+Overall, the negotiator applied de-escalation strategies effectively, demonstrating understanding and promoting collaboration at each stage. You were successful in acknowledging emotions and shifting the dialogue toward actionable solutions. To further enhance your approach, focus on more explicit restatement of concerns in the early stages and ensure clarity on how student input will be integrated into decision-making processes. Consistently providing specific, actionable steps can strengthen engagement and trust throughout the negotiation process.

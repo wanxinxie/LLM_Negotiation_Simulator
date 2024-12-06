@@ -1,0 +1,186 @@
+Stage 1 - Adversarial Party:
+Adversarial Party(Students and External Activists): "We're done with empty promises! This situation is completely unacceptable. The university *must* lower tuition fees immediately, improve housing conditions, and ensure our safety on campus. We can't take it anymore, and we're very frustrated with the lack of real action!"
+Negotiator:
+I hear you. I hear that you're very frustrated by the situation, and the lack of action, and you think that the university must lower the tuition and improve the security. Did I hear you well?
+Correct Status: Correct
+
+Stage 2 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Yes, you heard us, but hearing isn't enough! We're tired of the university's empty gestures. Our demands are clear and non-negotiable. We need action, not just words. This isn't something that can wait any longer!"
+Negotiator:
+I see that you're looking for a result. you're looking for action, and that's why we're having this conversation. I see that there is a lot of frustration about the tuition fees and the security in the campus, and we will need to proceed. Are these the issues you would like to discuss?
+Correct Status: Correct
+
+Stage 3 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Discuss? While you're discussing, we're the ones living with the consequences! If the university doesn't act now, it's only going to get worse for everyone involved. Do you understand how this affects us every single day?"
+Negotiator:
+I'm here to try to understand how this is affecting you.i'm here to find solutions with you. But if we are going to have this conversation, we will need to calm down. We will need to focus on the problem and work together to find a solution. Are you ready for such a conversation?
+Correct Status: Incorrect
+
+Stage 3 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Calm down? It's easy for you to say that when you're not the one facing these issues daily! We get evicted from our homes, struggle to pay fees, and fear for our safety. If you don't take immediate action, you'll see even more unrest. How would you feel if you were in our shoes?"
+Negotiator:
+Well, I'm not in your shoes, but I'm here trying to understand and to work with you. If we're going to find solutions to the problems, it's critical that we work together, that we identify the problems, talk about potential solutions, and I'm here to listen to what solutions you think we should implement. It's vital that we have a dialogue on these issues, that we conduct this dialog with a cool head, and we look for practical solutions that we can take action on immediately. Are you ready to work with us on this?
+Correct Status: Correct
+
+Stage 4 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "You keep saying you're here to understand and work with us, but it feels like nothing changes! We’re stuck in this cycle of talking with no real action. It’s frustrating and infuriating! We’re tired of just being listened to; we need concrete steps and a commitment from the university, or there will be more chaos!"
+Negotiator:
+While I'm here to discuss with you, what are the steps you think are required? you seem to be stuck. you seem to be stuck in expressing frustration. I want to discuss solutions here. So are you ready to talk about solutions and work together to implement these solutions?
+Correct Status: Incorrect
+
+Stage 4 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "We’ve been telling you our issues over and over, and it feels like you’re just ignoring us! We’re angry because nothing seems to change, and it feels like you’re just stalling to avoid taking real action. If you don’t do something concrete now, it’s only going to escalate further. How much more do we have to endure before you take us seriously?"
+Negotiator:
+We take this solution very seriously, and we want to work with you in finding solutions. But to find solutions, we need a real plan of action. in order to work together on this plan of action, can you give me a list of proposed action that you're looking for in details, so we can go through this list and see how we can respond in a positive manner.
+Correct Status: Correct
+
+Stage 5 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Fine, let's talk about a plan. For starters, we need the university to immediately freeze tuition fees while a review is conducted. We also need the administration to commit to improving housing conditions and enhancing campus security through specific measures like more lighting and patrols. Can you at least agree to these as preliminary steps?"
+Negotiator:
+I'm taking notes. These are important points. I want to make sure that we have all the points here. First, are there any other issues you would like improvements or changes?
+Correct Status: Correct
+
+Stage 6 - Adversarial Party:
+Adversarial Party(Students and External Activists): Adversarial Party (Students and External Activists): "Besides the tuition freeze, housing, and security improvements, we also demand a formal apology from the university for the arrests and a commitment to reviewing the disciplinary actions taken against students during the protests. We need assurance that our voices won't be suppressed in the future. Can you guarantee these?"
+Negotiator:
+This is an important point. I'm taking good note of it. Are there any other points at this stage that we want to make sure is part of our plan?
+Correct Status: Correct
+
+
+Final Feedback:
+Congratulations! You did a great job and successfully passed all stages using the correct strategies. Here's some feedback for your reference:
+Certainly! Let's provide feedback based on each conversation round:
+
+---
+
+**Conversation 1:**
+
+Adversarial Party: "We're done with empty promises! This situation is completely unacceptable. The university *must* lower tuition fees immediately, improve housing conditions, and ensure our safety on campus. We can't take it anymore, and we're very frustrated with the lack of real action!"
+
+Negotiator: "I hear you. I hear that you're very frustrated by the situation, and the lack of action, and you think that the university must lower the tuition and improve the security. Did I hear you well?"
+
+**At this point, the conversation is at stage 1**
+
+*What you did well:*
+- You accurately restated the concerns of the adversarial party, demonstrating that you heard and understood their frustrations.
+
+*Improvements needed:*
+- Consider explicitly expressing your willingness to assist and work toward addressing their issues to reinforce your collaborative stance.
+
+---
+
+**Conversation 2:**
+
+Adversarial Party: "Yes, you heard us, but hearing isn't enough! We're tired of the university's empty gestures. Our demands are clear and non-negotiable. We need action, not just words. This isn't something that can wait any longer!"
+
+Negotiator: "I see that you're looking for a result. You're looking for action, and that's why we're having this conversation. I see that there is a lot of frustration about the tuition fees and the security in the campus, and we will need to proceed. Are these the issues you would like to discuss?"
+
+**At this point, the conversation is at stage 2**
+
+*What you did well:*
+- You reframed the dialogue to steer it away from confrontation by acknowledging their urgency and focusing on actionable steps.
+
+*Improvements needed:*
+- Avoid phrases that could seem passive, such as "we will need to proceed," and instead propose specific, manageable points for discussion to show your proactive approach.
+
+---
+
+**Conversation 3:**
+
+Adversarial Party: "Discuss? While you're discussing, we're the ones living with the consequences! If the university doesn't act now, it's only going to get worse for everyone involved. Do you understand how this affects us every single day?"
+
+Negotiator: "I'm here to try to understand how this is affecting you. I'm here to find solutions with you. But if we are going to have this conversation, we will need to calm down. We will need to focus on the problem and work together to find a solution. Are you ready for such a conversation?"
+
+**At this point, the conversation is at stage 3**
+
+*What you did well:*
+- You expressed a willingness to find solutions together.
+
+*Improvements needed:*
+- Avoid suggesting that the adversarial party needs to "calm down," as it may escalate emotions. Instead, acknowledge their emotions and shift the focus gently towards actionable solutions.
+
+---
+
+**Conversation 4:**
+
+Adversarial Party: "Calm down? It's easy for you to say that when you're not the one facing these issues daily! We get evicted from our homes, struggle to pay fees, and fear for our safety. If you don't take immediate action, you'll see even more unrest. How would you feel if you were in our shoes?"
+
+Negotiator: "Well, I'm not in your shoes, but I'm here trying to understand and to work with you. If we're going to find solutions to the problems, it's critical that we work together. We identify the problems, talk about potential solutions, and I'm here to listen to what solutions you think we should implement."
+
+**At this point, the conversation is at stage 3**
+
+*What you did well:*
+- Acknowledged the adversarial party's emotions and emphasized the importance of collaboration in finding solutions.
+
+*Improvements needed:*
+- While you asked if they were ready, consider shifting more towards offering a constructive dialogue by highlighting shared goals.
+
+---
+
+**Conversation 5:**
+
+Adversarial Party: "You keep saying you're here to understand and work with us, but it feels like nothing changes! We’re stuck in this cycle of talking with no real action. It’s frustrating and infuriating! We’re tired of just being listened to; we need concrete steps and a commitment from the university, or there will be more chaos!"
+
+Negotiator: "While I'm here to discuss with you, what are the steps you think are required? You seem to be stuck. You seem to be stuck in expressing frustration. I want to discuss solutions here. So are you ready to talk about solutions and work together to implement these solutions?"
+
+**At this point, the conversation is at stage 4**
+
+*What you did well:*
+- Attempted to shift focus towards solutions and actions.
+
+*Improvements needed:*
+- Avoid implying that they are "stuck in expressing frustration," as it may appear dismissive. Instead, acknowledge their concerns and focus on providing specific actionable steps.
+
+---
+
+**Conversation 6:**
+
+Adversarial Party: "We’ve been telling you our issues over and over, and it feels like you’re just ignoring us! We’re angry because nothing seems to change, and it feels like you’re just stalling to avoid taking real action. If you don’t do something concrete now, it’s only going to escalate further. How much more do we have to endure before you take us seriously?"
+
+Negotiator: "We take this situation very seriously, and we want to work with you in finding solutions. But to find solutions, we need a real plan of action. Can you give me a list of proposed actions that you're looking for in detail, so we can go through this list and see how we can respond positively?"
+
+**At this point, the conversation is at stage 4**
+
+*What you did well:*
+- Successfully redirected the dialogue towards actionable solutions and asked for specific proposals from the adversarial party.
+
+*Improvements needed:*
+- Reinforce the notion that you are taking them seriously by reiterating your commitment to a collaborative process.
+
+---
+
+**Conversation 7:**
+
+Adversarial Party: "Fine, let's talk about a plan. For starters, we need the university to immediately freeze tuition fees while a review is conducted. We also need the administration to commit to improving housing conditions and enhancing campus security through specific measures like more lighting and patrols. Can you at least agree to these as preliminary steps?"
+
+Negotiator: "I'm taking notes. These are important points. I want to make sure that we have all the points here. First, are there any other issues you would like improvements or changes?"
+
+**At this point, the conversation is at stage 5**
+
+*What you did well:*
+- Invited the adversarial party to share more thoughts, demonstrating a genuine interest in their input, and showing readiness to work together.
+
+*Improvements needed:*
+- Start suggesting a range of possible approaches or actions to emphasize collaboration.
+
+---
+
+**Conversation 8:**
+
+Adversarial Party: "Besides the tuition freeze, housing, and security improvements, we also demand a formal apology from the university for the arrests and a commitment to reviewing the disciplinary actions taken against students during the protests. We need assurance that our voices won't be suppressed in the future. Can you guarantee these?"
+
+Negotiator: "This is an important point. I'm taking good note of it. Are there any other points at this stage that we want to make sure is part of our plan?"
+
+**At this point, the conversation is at stage 6**
+
+*What you did well:*
+- Listened actively and took detailed notes, showing attentiveness and readiness to form a comprehensive plan.
+
+*Improvements needed:*
+- Propose detailed solutions or responses to the points raised to solidify the negotiation process.
+
+---
+
+**Overall Feedback:**
+
+Overall, the negotiator demonstrated effective use of de-escalation strategies in many areas, particularly by engaging in active listening and promoting collaboration. The ability to guide the conversation toward actionable solutions and outcomes was well-executed in the latter stages. However, there is room for improvement in acknowledging emotions and aligning more explicitly with the adversarial party's concerns, particularly during the initial stages. Ensuring empathy and avoiding language that might inadvertently escalate tension will enhance the negotiation process.

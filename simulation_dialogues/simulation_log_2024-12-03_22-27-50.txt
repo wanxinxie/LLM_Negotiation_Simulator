@@ -1,0 +1,37 @@
+Stage 0 - Negotiator:
+Negotiator(University Administration): Welcome. Thank you for meeting me today. I understand the urgency of addressing rising tuition fees, inadequate housing, and campus safety concerns. Your voices are vital, and I am here to listen and work towards a resolution. Let's collaborate to ensure the safety and well-being of everyone involved, while addressing the core issues at hand.
+Adversarial party(Students and External Activists):  this is insulting. How can you understand a situation that you are not living in? you're not living in these creepy housing. it's cold, it's dark, it stinks. This is totally unacceptable. there's no way you can understand the situation. It needs to change. That's why we are demonstrating it is really, really frustrating to work with you.
+Stage 1 - Negotiator:
+Negotiator(University Administration): "I hear your frustration and truly empathize with your experience. Living in those conditions must be incredibly challenging. Your feelings are valid, and I understand why you feel the need to demonstrate. Let's work together to address these issues meaningfully and make the necessary changes. Your insights are crucial in shaping a better environment for everyone. How can we start moving towards a solution that feels right to you?"
+Adversarial party(Students and External Activists): well, first you need to come visit these creepy housing. You need to realize how dire the situation is, especially as we're getting closer to winter, you need to realize how urgent the situation is and how unsafe it has become for all of us, you need to experience the challenges and difficulties we have you.We want this conversation to take place in the dorms, so you can see how bad the situation is. Are you ready to move this meeting to the dorms?
+Stage 3 - Negotiator:
+Negotiator(University Administration): "I completely understand the importance of experiencing the conditions firsthand, and I appreciate the suggestion. I’m open to visiting the dorms and seeing the situation myself. Let’s focus on finding practical ways to address these concerns. We can arrange a visit and continue our discussion there. How does that sound to you?"
+Adversarial party(Students and External Activists): We appreciate your willingness to move this conversation to the dorms. So we can talk and search for real solutions. How can we discuss these points now?
+Stage 6 - Negotiator:
+Negotiator(University Administration): "Great, let's set a time for the visit that works for everyone involved. Once there, we can delve into specifics about improving conditions. We'll bring key decision-makers who can help outline actionable steps. Additionally, it would be beneficial to gather input from students on their priorities. This will enable us to create a comprehensive plan addressing immediate and long-term needs. How does this approach sound, and are there any particular areas you'd like us to focus on during the visit?"
+Adversarial party(Students and External Activists): Yes. Sounds good. Here are our list of priorities: 1) heating: we must have decent heating, even at night, so we can study in proper conditions, 2) Pest: we need to handle the surge in rats in the basement 3) Strange people walking in : we do not feel safe with all these people walking around the doms at night, the university needs to take security measures to prevent the entry into the building of strangers. And finally 4) the tuition and fees for the dorms are totally overcharged for the lack of quality. We need a discount of at least 50% to be able to continue our study and stop the demonstration.
+Negotiation End - Negotiator:
+Negotiator(University Administration): "Thank you for outlining your priorities so clearly. We will prioritize heating, pest control, and security improvements immediately. Let's discuss tuition adjustments further during our visit to ensure affordability. Your input is invaluable, and I appreciate your collaboration in finding solutions. Together, we can create a safer and more supportive environment. Thank you for your dedication and proactive approach. I look forward to our continued work to address these concerns effectively."
+
+Final Summary:
+
+ Thank you for practicing with us. Here's a constructive summary for your reference:
+Negotiation Summary:
+
+**Conversation 1:**  
+**Identified stage: 1**  
+The adversarial party began with an emotional and strong statement about the inadequate housing conditions, reflecting the frustration and urgency of the situation. The GPT negotiator responded by paraphrasing the concerns and showing empathy, stating, "I hear your frustration and truly empathize with your experience. Living in those conditions must be incredibly challenging." This strategy was effective in acknowledging the emotions involved and indicating a willingness to understand and address the issues.
+
+**Conversation 2:**  
+**Identified stage: 3**  
+The adversarial party escalated by demanding the negotiator visit the dorms to understand the urgency firsthand. The GPT negotiator recognized and validated these emotions and shifted the focus toward constructive solutions by agreeing to visit the dorms. By stating, "I’m open to visiting the dorms and seeing the situation myself. Let’s focus on finding practical ways to address these concerns," the negotiator moved toward collaborative problem-solving while acknowledging the adversarial party's perspective.
+
+**Conversation 3:**  
+**Identified stage: 6**  
+As the adversarial party showed signs of willingness to collaborate, the negotiator discussed practical solutions in detail. They planned a visit to the dorms and involved key decision-makers, which was crucial at this stage. By asking for input on priorities, "How does this approach sound, and are there any particular areas you'd like us to focus on during the visit?" the negotiator effectively engaged the adversarial party in shaping the solution, ensuring their concerns were central to the discussion.
+
+**Conversation 4:**  
+**Identified stage: 6**  
+The adversarial party responded positively with a list of specific priorities, indicating a move towards resolution. The negotiator acknowledged these points and proposed immediate action steps, reflecting a commitment to addressing the issues. By highlighting, "We will prioritize heating, pest control, and security improvements immediately," the negotiator demonstrated their willingness to meet the demands and work towards a tangible resolution.
+
+Overall, the dialogue demonstrates a successful negotiation strategy where the GPT negotiator skillfully navigated through stages of escalation by employing empathy, active listening, and collaboration. By following each stage-specific strategy, the negotiator de-escalated tensions, guiding the adversarial party from initial frustration to constructive dialogue. The approach effectively combined empathy with actionable solutions, showing the importance of acknowledging emotions while focusing on shared goals. This negotiation serves as a model for managing high-pressure situations by emphasizing understanding and collaboration, ultimately fostering a cooperative environment for resolution.
